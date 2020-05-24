@@ -1,2 +1,2 @@
 # pix2pix-using-cGAN
-Model for image translation between two domains
+This is model for image translation between two domains. It uses the pix2pix algorithm on a Conditional GAN (cGAN) architechture. The training files are too large to be uploaded, they can be obtained for a variety of domains from [here](https://www.kaggle.com/vikramtiwari/pix2pix-dataset?rvi=1). The model architechture and training details are listed in the cGAN paper in the references folder. Results obtained after training for 200 epochs on a GPU can be seen in the .ipynb notebook. 
